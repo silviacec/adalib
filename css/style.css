@@ -1,0 +1,77 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.flex{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding-bottom: 30px;
+}
+.lead{
+  margin-bottom: 3rem !important;
+}
+.display-3{
+  margin-bottom: 3rem;
+}
+.jumbotron{
+  margin: 0% 5% 5% 5%;
+  background-color: #9ffde3;
+}
+.bt.btn-primary.btn-lg{
+  background-color:#007bff;
+}
+.account{
+  margin: 0px 15px;
+  background-color: #6ccfe6;
+}
+.navbar{
+  margin: 0% 5%;
+}
+.card-title{
+  color: #4890bb;
+}
+.lead{
+  margin-bottom: 5rem;
+}
+.list{
+  text-decoration: none;
+}
+.center{
+  display: grid;
+  justify-content: center !important;
+  color: #1882ec;
+}
+.round{
+  border-radius: 90px;
+  height: 175px;
+}
+.chef{
+  width: 20%;
+  margin: 10px;
+}
+.dirig{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 50px;
+  background-color: #9ffde3;
+}
+.context-dark{
+  color: #9ffde3;
+}
+.banner-cookies{
+  height: 80px;
+  width: 100%;
+  background-color: yellow;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+}
+.button-cookies{
+  height: 30px;
+  width:150px;
+  background-color: green;
+  border-color: green;
+}
